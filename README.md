@@ -50,6 +50,19 @@ $$
 
 •	También se espera que las localidades menores a 5,000 habitantes presenten mayores niveles de pobreza debido al menor acceso a infraestructura y oportunidades económicas.
 
+## Fuente y Descripción de la Base de Datos
+<p>
+Para realizar el análisis de los determinantes de la pobreza municipal, combinamos dos fuentes de información oficiales y de acceso público, obtenidas a través de la Plataforma Nacional de Datos Abiertos:
+</p>
+
+•	Base de Datos de Pobreza Municipal (CONEVAL): Se utilizó el concentrado histórico de indicadores de pobreza multidimensional a nivel municipal (desagregado por año y sexo). Estos datos corresponden a las estimaciones oficiales de los años 2010, 2015 y 2020, calculadas bajo los lineamientos institucionales del CONEVAL.
+
+•	Indicadores de Marginación 2020 (CONAPO): Se descargó la base que contiene las variables socioeconómicas y estructurales utilizadas para construir el Índice de Marginación más reciente.
+
+<p>
+Ambas bases de datos originales cubren el total de los 2,466 municipios que integran el territorio mexicano, lo que garantiza que el modelo trabaje con todas las observaciones.
+</p>
+
 ## Cómo reproducir (comandos).
 
 ```
