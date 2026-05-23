@@ -2,6 +2,15 @@
 Resumen final de nuestro proyecto en la materia de Econometría
 
 
+### Cómo reproducir (comandos).
+
+```
+import numpy as np
+import pandas as pd
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
+```
+
 
 ### Roles y estructura del repositorio.
 
