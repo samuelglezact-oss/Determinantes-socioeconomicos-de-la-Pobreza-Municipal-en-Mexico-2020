@@ -16,8 +16,11 @@ $$
 </p>
 
 •	Se espera que el analfabetismo tenga un efecto positivo sobre el porcentaje de pobreza, ya que menores niveles educativos reducen las oportunidades económicas de la población. 
+
 •	Esperamos que las variables relacionadas con carencias en la vivienda, como servicios básicos insuficientes, hacinamiento, sobreocupación y viviendas con piso de tierra, tengan un efecto positivo debido a que reflejan condiciones de rezago social.
+
 •	Asimismo, se espera que la población ocupada con ingresos de hasta dos salarios mínimos tenga una relación positiva con la pobreza, ya que bajos niveles salariales limitan el acceso a mejores condiciones de vida.
+
 •	También se espera que las localidades menores a 5,000 habitantes presenten mayores niveles de pobreza debido al menor acceso a infraestructura y oportunidades económicas.
 
 ## Cómo reproducir (comandos).
