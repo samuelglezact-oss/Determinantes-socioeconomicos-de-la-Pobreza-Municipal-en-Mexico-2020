@@ -1,6 +1,24 @@
 # Determinantes-socioecon-micos-de-la-Pobreza-Municipal-en-M-xico-2020
 Resumen final de nuestro proyecto en la materia de Econometría
 
+##### Hipotesis General
+<p>
+  La hipótesis general que buscamos probar es que todos los factores sociodemográficos que consideramos explican el modelo de manera significativa el porcentaje de pobreza, es decir: 
+<p>
+  
+$$
+H_0 : \beta_1 = \beta_2 = \dots = \beta_k = 0 \quad vs \quad H_1 : \exists \beta_k \neq 0
+$$
+
+##### Hipótesis indivduales
+<p>
+  Por otro lado, las hipótesis individuales que deseamos probar sobre el efecto de las variables explicativas en la pobreza son las siguientes: 
+</p>
+
+•	Se espera que el analfabetismo tenga un efecto positivo sobre el porcentaje de pobreza, ya que menores niveles educativos reducen las oportunidades económicas de la población. 
+•	Esperamos que las variables relacionadas con carencias en la vivienda, como servicios básicos insuficientes, hacinamiento, sobreocupación y viviendas con piso de tierra, tengan un efecto positivo debido a que reflejan condiciones de rezago social.
+•	Asimismo, se espera que la población ocupada con ingresos de hasta dos salarios mínimos tenga una relación positiva con la pobreza, ya que bajos niveles salariales limitan el acceso a mejores condiciones de vida.
+•	También se espera que las localidades menores a 5,000 habitantes presenten mayores niveles de pobreza debido al menor acceso a infraestructura y oportunidades económicas.
 
 ### Cómo reproducir (comandos).
 
