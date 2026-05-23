@@ -1,7 +1,7 @@
 # Determinantes-socioecon-micos-de-la-Pobreza-Municipal-en-M-xico-2020
 Resumen final de nuestro proyecto en la materia de Econometría
 
-##### Hipotesis General
+## Hipotesis General
 <p>
   La hipótesis general que buscamos probar es que todos los factores sociodemográficos que consideramos explican el modelo de manera significativa el porcentaje de pobreza, es decir: 
 <p>
@@ -10,7 +10,7 @@ $$
 H_0 : \beta_1 = \beta_2 = \dots = \beta_k = 0 \quad vs \quad H_1 : \exists \beta_k \neq 0
 $$
 
-##### Hipótesis indivduales
+## Hipótesis indivduales
 <p>
   Por otro lado, las hipótesis individuales que deseamos probar sobre el efecto de las variables explicativas en la pobreza son las siguientes: 
 </p>
@@ -20,7 +20,7 @@ $$
 •	Asimismo, se espera que la población ocupada con ingresos de hasta dos salarios mínimos tenga una relación positiva con la pobreza, ya que bajos niveles salariales limitan el acceso a mejores condiciones de vida.
 •	También se espera que las localidades menores a 5,000 habitantes presenten mayores niveles de pobreza debido al menor acceso a infraestructura y oportunidades económicas.
 
-### Cómo reproducir (comandos).
+## Cómo reproducir (comandos).
 
 ```
 import numpy as np
@@ -30,7 +30,7 @@ import matplotlib.pyplot as plt
 ```
 
 
-### Roles y estructura del repositorio.
+## Roles y estructura del repositorio.
 
 <p>
 En el desarrollo del proyecto se asignaron roles específicos a cada integrante con el fin de asegurar una adecuada organización del trabajo, así como la correcta ejecución metodológica, técnica y analítica del modelo de regresión lineal múltiple. A continuación, se describen las responsabilidades de cada miembro del equipo:
@@ -49,7 +49,7 @@ En el desarrollo del proyecto se asignaron roles específicos a cada integrante 
 - ##### Reproducibilidad y QA: Samuel González Islas
 > Se encarga de garantizar la correcta estructura y funcionamiento técnico del proyecto. Organiza el repositorio (carpetas, datos y notebooks), elabora y mantiene el archivo README, y genera el archivo de dependencias (requirements.txt). Además, asegura que el proyecto sea reproducible, verificando que el código se ejecute sin errores en distintos entornos. También lleva el control de versiones mediante Git, revisa la consistencia y claridad del código, y establece un flujo de ejecución ordenado para facilitar su uso.
 
-### Dependencias (pip install -r requirements.txt).
+## Dependencias (pip install -r requirements.txt).
 
 <p>
 Para la correcta ejecución del proyecto, es necesario instalar previamente las librerías utilizadas en el desarrollo del análisis y la estimación del modelo. Estas dependencias se encuentran especificadas en el archivo requirements.txt, lo que permite su instalación automática mediante el uso del siguiente comando en la terminal:
