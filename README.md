@@ -1,4 +1,4 @@
-# Determinantes-socioeconómicos-de-la-Pobreza-Municipal-en-México-2020
+# Determinantes socioeconómicos de la Pobreza Municipal en México 2020
 Resumen rapido de nuestro proyecto en la materia de Econometría
 
 # Introducción
