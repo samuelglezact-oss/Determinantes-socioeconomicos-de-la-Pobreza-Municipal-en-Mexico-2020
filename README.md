@@ -10,7 +10,7 @@ $$
 H_0 : \beta_1 = \beta_2 = \dots = \beta_k = 0 \quad vs \quad H_1 : \exists \beta_k \neq 0
 $$
 
-## Hipótesis indivduales
+### Hipótesis indivduales
 <p>
   Por otro lado, las hipótesis individuales que deseamos probar sobre el efecto de las variables explicativas en la pobreza son las siguientes: 
 </p>
