@@ -1,6 +1,20 @@
 # Determinantes-socioecon-micos-de-la-Pobreza-Municipal-en-M-xico-2020
 Resumen final de nuestro proyecto en la materia de Econometría
 
+# Introducción
+
+## Antecedentes
+<P>
+  La primera fase de este proyecto se centró en el análisis del "Rendimiento Académico Universitario" mediante modelos econométricos basados en encuestas digitales aplicadas a estudiantes. A pesar de incrementar la muestra de 151 a 337 observaciones tras una segunda emisión del cuestionario, los resultados evidenciaron serios problemas estructurales y de especificación. El principal inconveniente radica en la baja capacidad explicativa del modelo. El coeficiente de determinación $R^2$ alcanzó apenas un 0.018, indicando que menos del 2\% de la variabilidad del promedio académico es explicada por las variables independientes incluidas.
+
+Asimismo, la prueba F global no resultó estadísticamente significativa , lo que invalida la hipótesis general del proyecto al no existir evidencia conjunta de que las variables explicativas afecten al rendimiento académico. A nivel individual, la mayoría de los regresores (como estrés, horas de sueño, redes sociales o trabajo) carecen de significancia estadística; únicamente las variables "Horas de estudio" y "Tiempo de traslado" mostraron significancia en la primera etapa, pero la perdieron por completo al consolidar la muestra final. 
+
+Adicionalmente, la prueba de Shapiro-Wilk rechazó la normalidad de los residuos, afectando la confiabilidad de los intervalos de confianza. La aplicación de transformaciones funcionales (como Box-Cox y modelos log-lineales) no generó mejoras significativas.
+
+Esto demuestra que el problema no deriva de la forma funcional, sino de las limitaciones intrínsecas de la base de datos, caracterizada por variables subjetivas, perceptuales y propensas a sesgos de medición. Por consiguiente, para evitar conclusiones econométricas débiles, se decidió reestructurar el trabajo y cambiar el enfoque hacia el estudio de los determinantes socioeconómicos de la pobreza municipal en México, lo cual ofrece un marco teórico más robusto, mayor objetividad de los datos y viabilidad para diagnósticos econométricos completos.
+</P>
+
+
 ## Hipotesis General
 <p>
   La hipótesis general que buscamos probar es que todos los factores sociodemográficos que consideramos explican el modelo de manera significativa el porcentaje de pobreza, es decir: 
