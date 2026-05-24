@@ -1,0 +1,104 @@
+DICCIONARIO DE DATOS — BASE DE POBREZA Y MARGINACIÓN MUNICIPAL 2020
+Fuente general: CONEVAL, CONAPO e INEGI, con información municipal 2020.
+Nota: las variables de porcentaje se interpretan en escala de 0 a 100; las variables de población son conteos. Las variables GM_* son dicotómicas: 1 indica que el municipio pertenece a esa categoría y 0 que no pertenece.
+
+VARIABLE	CATEGORÍA	DESCRIPCIÓN	UNIDAD / INTERPRETACIÓN	FUENTE / ORIGEN
+poblacion	Pobreza	Población total considerada en la medición de pobreza municipal.	Número de personas	CONEVAL
+
+pobreza_porcentaje	Pobreza	Porcentaje de la población en situación de pobreza.	Porcentaje de 0 a 100	CONEVAL
+
+pobreza_poblacion	Pobreza	Población en situación de pobreza.	Número de personas	CONEVAL
+pobreza_extrema_porcentaje	Pobreza	Porcentaje de la población en situación de pobreza extrema.	Porcentaje de 0 a 100	CONEVAL
+
+pobreza_extrema_poblacion	Pobreza	Población en situación de pobreza extrema.	Número de personas	CONEVAL
+
+pobreza_moderada_porcentaje	Pobreza	Porcentaje de la población en situación de pobreza moderada.	Porcentaje de 0 a 100	CONEVAL
+
+pobreza_moderada_poblacion	Pobreza	Población en situación de pobreza moderada.	Número de personas	CONEVAL
+
+vulnerable_carencias_sociales_porcentaje	Pobreza	Porcentaje de la población vulnerable por carencias sociales.	Porcentaje de 0 a 100	CONEVAL
+
+vulnerable_carencias_sociales_poblacion	Pobreza	Población vulnerable por carencias sociales.	Número de personas	CONEVAL
+
+vulnerable_ingresos_porcentaje	Pobreza	Porcentaje de la población vulnerable por ingreso.	Porcentaje de 0 a 100	CONEVAL
+
+vulnerable_ingresos_poblacion	Pobreza	Población vulnerable por ingreso.	Número de personas	CONEVAL
+
+no_pobre_no_vulnerable_porcentaje	Pobreza	Porcentaje de la población no pobre y no vulnerable.	Porcentaje de 0 a 100	CONEVAL
+
+no_pobre_no_vulnerable_poblacion	Pobreza	Población no pobre y no vulnerable.	Número de personas	CONEVAL
+
+carencia_rezago_educativo_porcentaje	Indicador de carencia social	Porcentaje de la población con rezago educativo.	Porcentaje de 0 a 100 
+CONEVAL
+
+carencia_rezago_educativo_poblacion	Indicador de carencia social	Población con rezago educativo.	Número de personas	CONEVAL
+
+carencia_servicios_de_salud_porcentaje	Indicador de carencia social	Porcentaje de la población con carencia por acceso a los servicios de salud.	Porcentaje de 0 a 100	CONEVAL
+
+carencia_servicios_de_salud_poblacion	Indicador de carencia social	Población con carencia por acceso a los servicios de salud.	Número de personas	CONEVAL
+
+carencia_seguridad_social_porcentaje	Indicador de carencia social	Porcentaje de la población con carencia por acceso a la seguridad social.	Porcentaje de 0 a 100	CONEVAL
+
+carencia_seguridad_social_poblacion	Indicador de carencia social	Población con carencia por acceso a la seguridad social.	Número de personas	CONEVAL
+
+carencia_calidad_espacios_vivienda_porcentaje	Indicador de carencia social	Porcentaje de la población con carencia por calidad y espacios de la vivienda.	Porcentaje de 0 a 100	CONEVAL
+
+carencia_calidad_espacios_vivienda_poblacion	Indicador de carencia social	Población con carencia por calidad y espacios de la vivienda.	Número de personas	CONEVAL
+
+carencia_servicios_basicos_vivienda_porcentaje	Indicador de carencia social	Porcentaje de la población con carencia por acceso a servicios básicos en la vivienda.	Porcentaje de 0 a 100	CONEVAL
+
+carencia_servicios_basicos_vivienda_poblacion	Indicador de carencia social	Población con carencia por acceso a servicios básicos en la vivienda.	Número de personas	CONEVAL
+
+carencia_alimentacion_nutritiva_calidad_porcentaje	Indicador de carencia social	Porcentaje de la población con carencia por acceso a alimentación nutritiva y de calidad.	Porcentaje de 0 a 100	CONEVAL
+
+carencia_alimentacion_nutritiva_calidad_poblacion	Indicador de carencia social	Población con carencia por acceso a alimentación nutritiva y de calidad.	Número de personas	CONEVAL
+
+al_menos_una_carencia_porcentaje	Privación social	Porcentaje de la población con al menos una carencia social.	Porcentaje de 0 a 100	CONEVAL
+
+al_menos_una_carencia_poblacion	Privación social	Población con al menos una carencia social.	Número de personas	CONEVAL
+
+al_menos_tres_carencias_porcentaje	Privación social	Porcentaje de la población con al menos tres carencias sociales.	Porcentaje de 0 a 100	CONEVAL
+
+al_menos_tres_carencias_poblacion	Privación social	Población con al menos tres carencias sociales.	Número de personas	CONEVAL
+
+ingreso_inferior_a_lpi_porcentaje	Bienestar	Porcentaje de la población con ingreso inferior a la línea de pobreza por ingresos.	Porcentaje de 0 a 100	CONEVAL
+
+ingreso_inferior_a_lpi_poblacion	Bienestar	Población con ingreso inferior a la línea de pobreza por ingresos.	Número de personas	CONEVAL
+
+ingreso_inferior_a_lpei_porcentaje	Bienestar	Porcentaje de la población con ingreso inferior a la línea de pobreza extrema por ingresos.	Porcentaje de 0 a 100	CONEVAL
+
+ingreso_inferior_a_lpei_poblacion	Bienestar	Población con ingreso inferior a la línea de pobreza extrema por ingresos.	Número de personas	CONEVAL
+
+POB_TOT	Marginación	Población total del municipio reportada en los indicadores sociodemográficos de marginación.	Número de habitantes	CONAPO / INEGI
+ANALF	Marginación	Porcentaje de población de 15 años o más analfabeta.	Porcentaje de 0 a 100	CONAPO
+
+SBASC	Marginación	Porcentaje de población de 15 años o más sin educación básica.	Porcentaje de 0 a 100	CONAPO
+
+OVSDE	Marginación	Porcentaje de ocupantes en viviendas particulares habitadas sin drenaje ni excusado.	Porcentaje de 0 a 100	CONAPO
+
+OVSEE	Marginación	Porcentaje de ocupantes en viviendas particulares habitadas sin energía eléctrica.	Porcentaje de 0 a 100	CONAPO
+OVSAE	Marginación	Porcentaje de ocupantes en viviendas particulares habitadas sin agua entubada.	Porcentaje de 0 a 100	CONAPO
+
+OVPT	Marginación	Porcentaje de ocupantes en viviendas particulares habitadas con piso de tierra.	Porcentaje de 0 a 100	CONAPO
+VHAC	Marginación	Porcentaje de viviendas particulares con hacinamiento.	Porcentaje de 0 a 100	CONAPO
+
+PL.5000	Marginación	Porcentaje de población que vive en localidades menores a 5,000 habitantes.	Porcentaje de 0 a 100	CONAPO
+
+PO2SM	Marginación	Porcentaje de población ocupada con ingresos de hasta dos salarios mínimos.	Porcentaje de 0 a 100	CONAPO
+IM_2020	Marginación	Índice de marginación del municipio en 2020.	Índice continuo	CONAPO
+
+IMN_2020	Marginación	Índice de marginación normalizado del municipio en 2020.	Índice normalizado	CONAPO
+
+GM_Muy bajo	Marginación	Variable dicotómica que indica si el municipio tiene grado de marginación muy bajo.	1 = pertenece a la categoría; 0 = no pertenece	Derivada de GM_2020
+GM_Medio	Marginación	Variable dicotómica que indica si el municipio tiene grado de marginación medio.	1 = pertenece a la categoría; 0 = no pertenece	Derivada de GM_2020
+GM_Bajo	Marginación	Variable dicotómica que indica si el municipio tiene grado de marginación bajo.	1 = pertenece a la categoría; 0 = no pertenece	Derivada de GM_2020
+GM_Alto	Marginación	Variable dicotómica que indica si el municipio tiene grado de marginación alto.	1 = pertenece a la categoría; 0 = no pertenece	Derivada de GM_2020
+GM_Muy alto	Marginación	Variable dicotómica que indica si el municipio tiene grado de marginación muy alto.	1 = pertenece a la categoría; 0 = no pertenece	Derivada de GM_2020
+
+RESUMEN POR CATEGORÍA
+CATEGORÍA	NÚMERO DE VARIABLES	CONTENIDO PRINCIPAL	FUENTE
+Pobreza	13	Pobreza total, pobreza moderada/extrema, población vulnerable y población no pobre/no vulnerable.	CONEVAL
+Privación social	4	Indicadores de al menos una y al menos tres carencias sociales.	CONEVAL
+Indicador de carencia social	12	Rezago educativo, servicios de salud, seguridad social, calidad y espacios de la vivienda, servicios básicos y alimentación.	CONEVAL
+Bienestar	4	Ingreso inferior a la línea de pobreza por ingresos y a la línea de pobreza extrema por ingresos.	CONEVAL
+Marginación	17	Indicadores sociodemográficos, índice de marginación e indicadores dicotómicos del grado de marginación.	CONAPO / INEGI
