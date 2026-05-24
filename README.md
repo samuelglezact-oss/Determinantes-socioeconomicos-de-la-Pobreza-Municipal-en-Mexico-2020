@@ -1,55 +1,6 @@
 # Determinantes socioeconómicos de la Pobreza Municipal en México 2020
 Resumen rapido de nuestro proyecto en la materia de Econometría
 
-# Introducción
-
-## Antecedentes
-<P>
-La primera fase de este proyecto se centró en el análisis del "Rendimiento Académico Universitario" mediante modelos econométricos basados en encuestas digitales aplicadas a estudiantes. A pesar de incrementar la muestra de 151 a 337 observaciones tras una segunda emisión del cuestionario, los resultados evidenciaron serios problemas estructurales y de especificación. El principal inconveniente radica en la baja capacidad explicativa del modelo. El coeficiente de determinación  $R^2$  alcanzó apenas un 0.018, indicando que menos del 2% de la variabilidad del promedio académico es explicada por las variables independientes incluidas.
-
-Asimismo, la prueba F global no resultó estadísticamente significativa , lo que invalida la hipótesis general del proyecto al no existir evidencia conjunta de que las variables explicativas afecten al rendimiento académico. A nivel individual, la mayoría de los regresores (como estrés, horas de sueño, redes sociales o trabajo) carecen de significancia estadística; únicamente las variables "Horas de estudio" y "Tiempo de traslado" mostraron significancia en la primera etapa, pero la perdieron por completo al consolidar la muestra final. 
-
-Adicionalmente, la prueba de Shapiro-Wilk rechazó la normalidad de los residuos, afectando la confiabilidad de los intervalos de confianza. La aplicación de transformaciones funcionales (como Box-Cox y modelos log-lineales) no generó mejoras significativas.
-
-Esto demuestra que el problema no deriva de la forma funcional, sino de las limitaciones intrínsecas de la base de datos, caracterizada por variables subjetivas, perceptuales y propensas a sesgos de medición. Por consiguiente, para evitar conclusiones econométricas débiles, se decidió reestructurar el trabajo y cambiar el enfoque hacia el estudio de los determinantes socioeconómicos de la pobreza municipal en México, lo cual ofrece un marco teórico más robusto, mayor objetividad de los datos y viabilidad para diagnósticos econométricos completos.
-</P>
-
-## Contexto y motivación económica
-<P>
-Al cambiar de tema, nuestro análisis ahora se enfoca en la pobreza a nivel municipal utilizando los datos oficiales del CONEVAL y del CONAPO, que abarcan los municipios del país. Analizar la pobreza a esta escala es de suma importancia ya que el municipio es el gobierno más cercano a la gente y es donde se ven reflejadas las carencias sociales y la marginación de forma directa.
-
-Los datos oficiales nos muestran que México es un país de enormes contrastes y que la pobreza no se comporta igual en todos lados. Por un lado, en los últimos años, la mayoría de los municipios lograron reducir sus niveles de pobreza. Sin embargo, en cientos de municipios la situación empeoró y la pobreza aumentó.
-
-Además, la brecha entre regiones es gigantesca. Mientras existen zonas urbanas o comerciales donde la pobreza afecta a menos del 10% de la población, en los municipios más vulnerables, principalmente zonas indígenas de estados como Chiapas, Oaxaca y Guerrero, la pobreza llega a golpear a más del 95% de sus habitantes. Esta gran diferencia demuestra que la pobreza y la marginación dependen del lugar donde se nace y se vive, lo que nos permite estudiarlas a fondo combinando estas bases de datos y así aplicar un modelo econométrico.
-
-Desde el lado de la economía, entender qué causa la pobreza en los municipios es fundamental si se quieren diseñar programas sociales que de verdad funcionen y repartir mejor el presupuesto público. Como el CONEVAL mide la pobreza de forma multidimensional, sabemos que este problema no es solo la falta de dinero; sino que esta relacionado a seis carencias sociales clave: el rezago educativo, la falta de acceso a la salud, la falta de seguridad social, las malas condiciones de la vivienda, la escasez de servicios básicos (como agua o luz) y la mala alimentación.
-
-La motivación de esta segunda fase es usar un modelo de regresión para aislar y medir qué tanto influyen estas carencias en el porcentaje de pobreza de cada municipio. Con esto, queremos encontrar un modelo fuerte que nos diga qué fallas en la educación o en la infraestructura están atrapando a los municipios en la pobreza.
-</P>
-
-
-## Hipotesis General
-<p>
-  La hipótesis general que buscamos probar es que todos los factores sociodemográficos que consideramos explican el modelo de manera significativa el porcentaje de pobreza, es decir: 
-<p>
-  
-$$
-H_0 : \beta_1 = \beta_2 = \dots = \beta_k = 0 \quad vs \quad H_1 : \exists \beta_k \neq 0
-$$
-
-### Hipótesis indivduales
-<p>
-  Por otro lado, las hipótesis individuales que deseamos probar sobre el efecto de las variables explicativas en la pobreza son las siguientes: 
-</p>
-
-•	Se espera que el analfabetismo tenga un efecto positivo sobre el porcentaje de pobreza, ya que menores niveles educativos reducen las oportunidades económicas de la población. 
-
-•	Esperamos que las variables relacionadas con carencias en la vivienda, como servicios básicos insuficientes, hacinamiento, sobreocupación y viviendas con piso de tierra, tengan un efecto positivo debido a que reflejan condiciones de rezago social.
-
-•	Asimismo, se espera que la población ocupada con ingresos de hasta dos salarios mínimos tenga una relación positiva con la pobreza, ya que bajos niveles salariales limitan el acceso a mejores condiciones de vida.
-
-•	También se espera que las localidades menores a 5,000 habitantes presenten mayores niveles de pobreza debido al menor acceso a infraestructura y oportunidades económicas.
-
 ## Fuente y Descripción de la Base de Datos
 <p>
 Para realizar el análisis de los determinantes de la pobreza municipal, combinamos dos fuentes de información oficiales y de acceso público, obtenidas a través de la Plataforma Nacional de Datos Abiertos:
