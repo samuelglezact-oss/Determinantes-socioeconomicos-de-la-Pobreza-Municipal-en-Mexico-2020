@@ -78,9 +78,9 @@ La carencia de drenaje y agua entubada miden la infraestructura pública y el bi
 
 •	Distribución de la Población (PL_5000): Esta variable capta la dispersión poblacional en México. Las localidades rurales de menos de 5,000 habitantes sufren de altos costos de transporte, falta de mercados competitivos y difícil acceso a clínicas y escuelas de nivel medio-superior, existiendo una correlación histórica altísima entre ruralidad y pobreza.
 
-•	I
+•	Ingresos (PO2sm): El ingreso es el eje económico de la pobreza. En México, percibir dos salarios mínimos o menos para una familia promedio condena al hogar a mantenerse por debajo de la canasta alimentaria y no alimentaria, capturando la precarización laboral y el peso de la economía informal.
 
-•	I
+•	Marginación (GM_Bajo, GM_Medio, GM_Alto y GM_Muy\_Alto): Estas variables absorben el impacto de la exclusión social regional. Al segmentar el Grado de Marginación en variables dicotómicas, el modelo no solo analiza los factores individuales del hogar, sino que pondera el entorno socioeconómico general de la región donde viven.
 
 ## Cómo reproducir (comandos).
 
