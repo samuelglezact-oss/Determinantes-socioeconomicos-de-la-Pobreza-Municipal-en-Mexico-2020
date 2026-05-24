@@ -1,6 +1,8 @@
 # Determinantes socioeconómicos de la Pobreza Municipal en México 2020
 Resumen rapido de nuestro proyecto en la materia de Econometría
 
+## Introducción del Repositorio
+
 ## Cómo reproducir (comandos).
 
 ### 1. Subir el archivo que dejamos en este repositorio a Colab
