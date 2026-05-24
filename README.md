@@ -11,7 +11,7 @@ En este repositorio se adjuntan dos proyectos organizados en carpetas separadas:
 • El proyecto final "Pobreza municipal" analiza los determinantes de la pobreza municipal en México utilizando datos oficiales de CONEVAL y CONAPO, aplicando un modelo de regresión para medir el impacto de las carencias sociales sobre la pobreza.
 
 <p>
-Fuera de las dos carpetas se encuentra este README.md (con la introducción, indicaciones para correr el trabajo final, roles de los integrantes y paqueterías necesarias), así como un Reporte final que resume los resultados obtenidos de los proyectos.
+Fuera de las dos carpetas se encuentra este README.md (con la introducción, indicaciones para correr el trabajo final, roles de los integrantes y paqueterías necesarias), así como un Reporte "Proyecto_final2 que resume los resultados obtenidos de los proyectos.
 </p>
 
 ## Cómo reproducir (comandos).
