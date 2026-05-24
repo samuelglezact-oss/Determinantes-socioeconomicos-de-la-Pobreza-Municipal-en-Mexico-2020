@@ -2,6 +2,17 @@
 Resumen rapido de nuestro proyecto en la materia de Econometría
 
 ## Introducción del Repositorio
+<p>
+En este repositorio se adjuntan dos proyectos organizados en carpetas separadas: "Rendimiento Académico" y "Pobreza Municipal".
+</p>
+
+• El primer proyecto "Rendimiento academico" buscaba analizar los factores del rendimiento escolar universitario, pero los resultados obtenidos fueron débiles (baja capacidad explicativa, falta de significancia estadística). Por esta razón, se dejó de trabajar con ese proyecto y se reestructuró el trabajo hacia un segundo proyecto final.
+
+• El proyecto final "Pobreza municipal" analiza los determinantes de la pobreza municipal en México utilizando datos oficiales de CONEVAL y CONAPO, aplicando un modelo de regresión para medir el impacto de las carencias sociales sobre la pobreza.
+
+<p>
+Fuera de las dos carpetas se encuentra este README.md (con la introducción, indicaciones para correr el trabajo final, roles de los integrantes y paqueterías necesarias), así como un Reporte final que resume los resultados obtenidos de los proyectos.
+</p>
 
 ## Cómo reproducir (comandos).
 
