@@ -1,0 +1,56 @@
+#Diccionario
+Area_Academica:
+
+- Ciencias Exactas e Ingenierías.
+- Ciencias Naturales y de la Salud.
+- Ciencias Sociales y Humanidades.
+- Ciencias Económico-Administrativas.
+- Artes y Diseño
+
+Ingreso_Mensual
+- 1: Un salario mínimo 8,480 um.
+- 2: Dos salarios mínimos 16,960 um.
+- 3: Tres salarios mínimos 25,440 um.
+- 4: Cuatro salarios mínimos 33,920 um.
+- 5: Más de cuatro salarios mínimos
+
+Tiempo_Traslado_min
+- 7.5: Menos de 15 min.
+- 30.0: De 15 a 45 min.
+- 52.5: De 45 min a 1 h.
+- 74.0: De 1 h a 1 h 30 min.
+- 105.0: De 1 h 30 min a 2 hrs.
+- 135.0: Más de 2 hrs.
+
+Trabajo
+- 1: Si.
+- 0: No.
+
+Nivel de estres
+- 1: Muy bajo.
+- 2: Bajo.
+- 3: Medio.
+- 4: Alto.
+- 5: Muy alto.
+
+Metodo de estudio
+- 1: Si.
+- 0: No.
+
+Nivel de interes.
+- 1: Muy bajo.
+- 2: Bajo.
+- 3: Medio.
+- 4: Alto.
+- 5: Muy alto.
+
+Categoria_Predominante
+- Ciencias Exactas y Lógica.
+- Ciencias de la Salud y Biológicas.
+- Social, Humanidades y Teórica.
+- Diseño, Artes y Creatividad.
+- Económico, Administrativo y Práctico.
+
+Tipo de transport
+- 1: Si.
+- 0: No.
