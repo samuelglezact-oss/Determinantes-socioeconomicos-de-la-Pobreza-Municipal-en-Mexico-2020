@@ -63,6 +63,25 @@ Para realizar el análisis de los determinantes de la pobreza municipal, combina
 Ambas bases de datos originales cubren el total de los 2,466 municipios que integran el territorio mexicano, lo que garantiza que el modelo trabaje con todas las observaciones.
 </p>
 
+###  justificación de Variables
+<p>
+La justificación teórica y económica para la inclusión de cada una de estas variables independientes en el modelo base se detalla a continuación:
+</p>
+
+•	Educación (ANALF y SBASC): El rezago educativo es una de las carencias sociales más importantes. La falta de alfabetización  y de educación básica  limita el acceso a empleos formales, bien remunerados y con seguridad social. Estas variables explican la trampa intergeneracional de la pobreza: "A menor preparación, menores ingresos futuros".
+
+•	Vivienda (OVSPS, VHAC, OVSDE y OVSAE): El piso de tierra es históricamente uno de los indicadores más robustos y sensibles de la pobreza extrema en México, estando directamente asociado con problemas de salud insalubre y una falta severa de inversión patrimonial.
+
+El hacinamiento  refleja la incapacidad económica de los hogares para expandir su vivienda conforme crece la familia, afectando discretamente la calidad de vida y la privacidad.
+    
+La carencia de drenaje y agua entubada miden la infraestructura pública y el bienestar sanitario. Al no depender del ingreso del individuo sino de la inversión del Estado, son indicadores puros de "Pobreza estructural" rural y periurbana.
+
+•	Distribución de la Población (PL_5000): Esta variable capta la dispersión poblacional en México. Las localidades rurales de menos de 5,000 habitantes sufren de altos costos de transporte, falta de mercados competitivos y difícil acceso a clínicas y escuelas de nivel medio-superior, existiendo una correlación histórica altísima entre ruralidad y pobreza.
+
+•	I
+
+•	I
+
 ## Cómo reproducir (comandos).
 
 ```
